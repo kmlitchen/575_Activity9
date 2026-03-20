@@ -1,2 +1,2 @@
-# GEOG 575 Activity 6 Repo - 
-This repo continues unit 2 w/ leaflet tutorials and lab 1 data, scaling proportional symbols and adding interactive operators
+# GEOG 575 Activity 8 Repo - 
+This repo begins unit 3 w/ D3 

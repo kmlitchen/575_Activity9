@@ -1,34 +1,22 @@
-/*setting map height*/
-#map { height: 550px; 
-    width: 100%;
-    display: inline-block;
-    }
 
-#panel {    
-        width: 5%;    
-        padding: 30px;
-        display: inline;
-        vertical-align: bottom;
-        text-align: center;
-        line-height: 10px;
-    }
-.range-slider {  
-    width: 80%;  
-}  
-.step {  
-    width: 5%;  
-}  
-.step img {  
-    width: 100%; 
-}  
-#forward {
-    float: right;
-}
-#reverse {  
-    float: left;  
+/*Activity 8*/
+
+/* text style */
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    stroke-width: 1px;
+    shape-rendering: crispEdges;
 }
 
-/* set margin size in leaflet popups*/
-.leaflet-popup-content p {
-    margin: 0.2em 0;
+.axis text {
+    font-family: sans-serif;
+    font-size: 0.9em;
+}
+
+.title {
+    font-family: sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
 }
