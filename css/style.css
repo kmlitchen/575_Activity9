@@ -1,7 +1,18 @@
 
-/*Activity 8*/
+/*Activity 9*/
+.us {
+    fill: #bdc7b3; 
+    stroke: #757575;
+    stroke-width: 1px;
+}
 
-/* text style */
+.map {
+    border: medium solid #999;
+    margin: 10px 0 0 20px;
+    background:#a9b4ca;
+}
+
+/* text style - from activity 8, just for safe-keeping*/
 .axis path,
 .axis line {
     fill: none;
